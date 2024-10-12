@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Hata-ExceptionYonetimi4/1.0.0": {
+        "runtime": {
+          "Hata-ExceptionYonetimi4.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Hata-ExceptionYonetimi4/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
